@@ -1,2 +1,3 @@
 # Exercicio01_TI2
-Exercício 01 TI 2
+
+Repositório criado para a resolução do Exercício 01 da matéria Trabalho Interdisciplinar 2 do curso de Ciência da Computação da PUC-MG.
